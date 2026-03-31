@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /_vercel/
+
+Sitemap: https://njupuen.vercel.app/sitemap.xml
+Host: https://njupuen.vercel.app
